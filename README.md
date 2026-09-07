@@ -219,20 +219,7 @@ Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, 
 
 <td valign="middle" width="80%">
 
-<table border="0" cellpadding="15" cellspacing="0">
-
-<tr>
-
-<td>
-
-<strong>Uma trajetória construída através de aprendizado, prática, criatividade e evolução constante, transformando cada experiência em uma nova oportunidade para aprender, praticar, criar e evoluir.
-</strong>
-
-</td>
-
-</tr>
-
-</table>
+<strong>Uma trajetória construída através de aprendizado, prática, criatividade e evolução constante, transformando cada experiência em uma nova oportunidade para aprender, praticar, criar e evoluir.</strong>
 
 </td>
 
@@ -275,45 +262,23 @@ Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, 
 
 </table>
 
-<div align="center">
-
 <!-- Imagem decorativa -->
 
+<div align="center">
 <img src="assets/Gallery/Illustration 1 1.svg" width="150px" alt="Imagem">
 
 ### ✦ Projetos & Portfólios ✦
 
+</div>
+
 <!-- Botões ícones -->
 
-<table align="center" border="0" cellpadding="4" cellspacing="0">
-<tr>
+<div align="center">
 
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 3 1.svg" width="80px">
-</a>
-</td>
-
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 6 1.svg" width="80px">
-</a>
-</td>
-
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 4 1.svg" width="80px">
-</a>
-</td>
-
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 13 1.svg" width="80px">
-</a>
-</td>
-
-</tr>
-</table>
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 3 1.svg" width="80" alt="Projeto"/></a>&nbsp;&nbsp;
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 6 1.svg" width="80" alt="Projeto"/></a>&nbsp;&nbsp;
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 4 1.svg" width="80" alt="Projeto"/></a>&nbsp;&nbsp;
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 13 1.svg" width="80" alt="Projeto"/></a>
 
 </div>
 <br>
@@ -341,6 +306,7 @@ Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, 
 <!-- Avatar -->
 
 <table align="center" border="0" cellpadding="8" cellspacing="0">
+
 <tr>
 
 <td valign="middle" width="20%" align="center">
@@ -351,39 +317,24 @@ Também sou apaixonado por <strong>jogos retrô, videogames e mangás</strong>, 
 
 <td valign="middle" width="80%">
 
-<table border="0" cellpadding="15" cellspacing="0">
-<tr>
-<td>
-
-<strong>Um espaço para experimentar, aprender e transformar curiosidade em criação, explorando conceitos, tecnologias e novas possibilidades através de pequenos projetos.
-</strong>
-
-</td>
-</tr>
-</table>
+<strong>Um espaço para experimentar, aprender e transformar curiosidade em criação, explorando conceitos, tecnologias e novas possibilidades através de pequenos projetos.</strong>
 
 </td>
 
 </tr>
+
 </table>
-
-<table align="center" border="0" cellpadding="12" cellspacing="0">
-<tr>
-
-<td valign="top" width="25%" align="center">
 
 <!-- Imagem decorativa -->
 
+<div align="center">
 <img src="assets/Gallery/Illustration 2 1.svg" width="150px" alt="Imagem">
 
 ### ✦ Experimentos ✦
 
 <strong>Testes • Estudos • Ideias</strong>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <!-- Botão -->
 

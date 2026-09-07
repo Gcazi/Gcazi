@@ -219,20 +219,7 @@ I am also passionate about <strong>retro games, video games, and manga</strong>,
 
 <td valign="middle" width="80%">
 
-<table border="0" cellpadding="15" cellspacing="0">
-
-<tr>
-
-<td>
-
-<strong>A path built through learning, practice, creativity, and constant evolution, turning every experience into a new opportunity to learn, practice, create, and evolve.
-</strong>
-
-</td>
-
-</tr>
-
-</table>
+<strong>A path built through learning, practice, creativity, and constant evolution, turning every experience into a new opportunity to learn, practice, create, and evolve.</strong>
 
 </td>
 
@@ -275,45 +262,23 @@ I am also passionate about <strong>retro games, video games, and manga</strong>,
 
 </table>
 
-<div align="center">
-
 <!-- Decorative image -->
 
-<img src="assets/Gallery/Illustration 1 1.svg" width="150px" alt="Image">
+<div align="center">
+<img src="assets/Gallery/Illustration 1 1.svg" width="150px" alt="Imagem">
 
 ### ✦ Projects & Portfolios ✦
 
+</div>
+
 <!-- Icon buttons -->
 
-<table align="center" border="0" cellpadding="4" cellspacing="0">
-<tr>
+<div align="center">
 
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 3 1.svg" width="80px">
-</a>
-</td>
-
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 6 1.svg" width="80px">
-</a>
-</td>
-
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 4 1.svg" width="80px">
-</a>
-</td>
-
-<td align="center">
-<a href="LINK_DO_PROJETO">
-<img src="assets/Gallery/Icon 13 1.svg" width="80px">
-</a>
-</td>
-
-</tr>
-</table>
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 3 1.svg" width="80" alt="Projeto"/></a>&nbsp;&nbsp;
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 6 1.svg" width="80" alt="Projeto"/></a>&nbsp;&nbsp;
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 4 1.svg" width="80" alt="Projeto"/></a>&nbsp;&nbsp;
+<a href="LINK_DO_PROJETO" target="_blank"><img src="assets/Gallery/Icon 13 1.svg" width="80" alt="Projeto"/></a>
 
 </div>
 <br>
@@ -341,6 +306,7 @@ I am also passionate about <strong>retro games, video games, and manga</strong>,
 <!-- Avatar -->
 
 <table align="center" border="0" cellpadding="8" cellspacing="0">
+
 <tr>
 
 <td valign="middle" width="20%" align="center">
@@ -351,39 +317,24 @@ I am also passionate about <strong>retro games, video games, and manga</strong>,
 
 <td valign="middle" width="80%">
 
-<table border="0" cellpadding="15" cellspacing="0">
-<tr>
-<td>
-
-<strong>A space to experiment, learn, and turn curiosity into creation, exploring concepts, technologies, and new possibilities through small projects.
-</strong>
-
-</td>
-</tr>
-</table>
+<strong>A space to experiment, learn, and turn curiosity into creation, exploring concepts, technologies, and new possibilities through small projects.</strong>
 
 </td>
 
 </tr>
+
 </table>
-
-<table align="center" border="0" cellpadding="12" cellspacing="0">
-<tr>
-
-<td valign="top" width="25%" align="center">
 
 <!-- Decorative image -->
 
-<img src="assets/Gallery/Illustration 2 1.svg" width="150px" alt="Image">
+<div align="center">
+<img src="assets/Gallery/Illustration 2 1.svg" width="150px" alt="Imagem">
 
 ### ✦ Experiments ✦
 
 <strong>Tests • Studies • Ideas</strong>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <!-- Button -->
 
